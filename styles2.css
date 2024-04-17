@@ -1,0 +1,88 @@
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #ff9900; 
+}
+
+
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+main {
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #000000;
+    color: #ff9900;
+    text-align: center;
+    padding: px;
+    font-size: xx-large;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 5px solid #ff9900; 
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 32px;
+}
+
+h3{
+    text-align: left;
+    font-size: 30px;
+}
+
+p{
+   
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#botao {
+    background-color: #000000;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 
+  }
+
+.button5 {background-color: #555555;} 
+
+
+
+
